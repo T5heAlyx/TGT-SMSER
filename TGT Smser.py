@@ -26,7 +26,7 @@ _______________________________|> Turkish Guy Tim <|____________________________
 |> Eğer Mesajınızı Gönderdikten Sonra False Görürseniz Telefon Numaranız Geçersizdir.<|
 |> Youtube: https://www.youtube.com/channel/UCXspb19nmlqMkuakJklcqsw                 <|                    
 |> Discord: https://discord.gg/eZKQWcmuNy (:)     (:)(:)   (:)(:)   (:)(:)   (:)(:)  <|
-|> Web Site: http://turkishguytim.rf.gd   (:)   (:)(:)   (:)(:)   (:)(:)   (:)(:)    <|
+|> Web Site: http://turkishguyteam.rf.gd/   (:)   (:)(:)   (:)(:)   (:)(:)   (:)(:)  <|
 |_____________________________________________________________________________________|
 """
  print(tgtsmser)
