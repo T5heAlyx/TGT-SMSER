@@ -1,4 +1,4 @@
-#Made By Alyx#4325
+#Made By Alyx#2795
 
 import requests
 import time
@@ -15,11 +15,11 @@ while (True):
     | | | |__| |  | |     ____) | |  | |____) | |____| | \ \ 
     |_|  \_____|  |_|    |_____/|_|  |_|_____/|______|_|  \_\                                 
 """
-# Made By Alyx#4325
+# Made By Alyx#2795
 
  credits = """
                               |_____________________|
-                              |> Made By Alyx#4325 <|        	             
+                              |> Made By Alyx#2795 <|        	             
 _______________________________|> Turkish Guy Tim <|__________________________________
 |> İstediginiz Telefon Numarasına Her Gün Sadece 1 Defa Mesaj Atma Hakkınız Vardır!  <|
 |> Mesajınızdaki karakter sayısı 70'i geçmemelidir.                                  <|
@@ -44,7 +44,7 @@ _______________________________|> Turkish Guy Tim <|____________________________
  time.sleep(0.3)
  kisalt = mesaj[0:70]
 
- print("\n[%] Mesajınızın Gönderilebilecek Kısmı Aşagıdaki Gibidir.\n","\n" + kisalt)  #Made By Alyx#4325
+ print("\n[%] Mesajınızın Gönderilebilecek Kısmı Aşagıdaki Gibidir.\n","\n" + kisalt)  #Made By Alyx#2795
 
  gonder = input("\n[#] Mesajınız Gönderilsinmi? [Y/n]: ")
 
@@ -67,10 +67,10 @@ _______________________________|> Turkish Guy Tim <|____________________________
        pass
 
 
- # Made By Alyx#4325
+ # Made By Alyx#2795
 
  elif gonder == "n" or gonder == "N":
-  em = input("[%] Programdan Çıkmak İçin [Y/y] \n[%] Ana Menüye Dönmek İçin [N/n] \n[#]:")  #Made By Alyx#4325
+  em = input("[%] Programdan Çıkmak İçin [Y/y] \n[%] Ana Menüye Dönmek İçin [N/n] \n[#]:")  #Made By Alyx#2795
 
   if em == "Y" or em == "y":
        print("\n[%] Çıkılıyor...")
@@ -95,4 +95,4 @@ _______________________________|> Turkish Guy Tim <|____________________________
  else:
     print("\n[#] Bir Hata Oluştu!")
 
-#Made By Alyx#4325
+#Made By Alyx#2795
