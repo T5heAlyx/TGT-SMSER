@@ -1,4 +1,4 @@
-#Made By Wr4th#0001
+#Made By wr4th01
 
 import requests
 import time
@@ -15,18 +15,18 @@ while (True):
     | | | |__| |  | |     ____) | |  | |____) | |____| | \ \ 
     |_|  \_____|  |_|    |_____/|_|  |_|_____/|______|_|  \_\                                 
 """
-# Made By Wr4th#0001
+#Made By wr4th01
 
  credits = """
                               |______________________|
-                              |> Made By Wr4th#0001 <|        	             
+                               |>  Made By wr4th01 <|        	             
 _______________________________|> Turkish Guy Tim  <|__________________________________
 |> İstediginiz Telefon Numarasına Her Gün Sadece 1 Defa Mesaj Atma Hakkınız Vardır!  <|
 |> Mesajınızdaki karakter sayısı 70'i geçmemelidir.                                  <|
 |> Eğer Mesajınızı Gönderdikten Sonra False Görürseniz Telefon Numaranız Geçersizdir.<|
 |> Youtube: https://www.youtube.com/channel/UCXspb19nmlqMkuakJklcqsw                 <|                    
 |> Discord: https://discord.gg/eZKQWcmuNy (:)     (:)(:)   (:)(:)   (:)(:)   (:)(:)  <|
-|> Web Site: http://turkishguyteam.rf.gd/   (:)   (:)(:)   (:)(:)   (:)(:)   (:)(:)  <|
+|> Web Site: https://turkishguy.rf.gd     (:)     (:)(:)   (:)(:)   (:)(:)   (:)(:)  <|
 |_____________________________________________________________________________________|
 """
  print(tgtsmser)
@@ -44,12 +44,12 @@ _______________________________|> Turkish Guy Tim  <|___________________________
  time.sleep(0.3)
  kisalt = mesaj[0:70]
 
- print("\n[%] Mesajınızın Gönderilebilecek Kısmı Aşagıdaki Gibidir.\n","\n" + kisalt)  #Made By Wr4th#0001
+ print("\n[%] Mesajınızın Gönderilebilecek Kısmı Aşağıdaki Gibidir.\n","\n" + kisalt)  #Made By wr4th01
 
  gonder = input("\n[#] Mesajınız Gönderilsinmi? [Y/n]: ")
 
  if gonder == "y" or gonder == "Y":
-    print("\n","[%] Mesajınız Gönderiliyor...\n","=======================","\n Telefon: " + tel + "\n","Mesaj: " + kisalt + "\n")  #Made By Wr4th#0001
+    print("\n","[%] Mesajınız Gönderiliyor...\n","=======================","\n Telefon: " + tel + "\n","Mesaj: " + kisalt + "\n")  #Made By wr4th01
     time.sleep(2)
     res = requests.post('https://textbelt.com/text',{
         'phone': tel,
@@ -67,10 +67,10 @@ _______________________________|> Turkish Guy Tim  <|___________________________
        pass
 
 
- # Made By Wr4th#0001
+ #Made By wr4th01
 
  elif gonder == "n" or gonder == "N":
-  em = input("[%] Programdan Çıkmak İçin [Y/y] \n[%] Ana Menüye Dönmek İçin [N/n] \n[#]:")  #Made By Wr4th#0001
+  em = input("[%] Programdan Çıkmak İçin [Y/y] \n[%] Ana Menüye Dönmek İçin [N/n] \n[#]:")  #Made By wr4th01
 
   if em == "Y" or em == "y":
        print("\n[%] Çıkılıyor...")
@@ -95,4 +95,4 @@ _______________________________|> Turkish Guy Tim  <|___________________________
  else:
     print("\n[#] Bir Hata Oluştu!")
 
-#Made By Wr4th#0001
+#Made By wr4th01
