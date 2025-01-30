@@ -19,7 +19,7 @@ while (True):
 
  credits = """
                               |______________________|
-                               |>  Made By wr4th01 <|        	             
+                               |>  Made By wr4th0  <|        	             
 _______________________________|> Turkish Guy Tim  <|__________________________________
 |> İstediginiz Telefon Numarasına Her Gün Sadece 1 Defa Mesaj Atma Hakkınız Vardır!  <|
 |> Mesajınızdaki karakter sayısı 70'i geçmemelidir.                                  <|
